@@ -1,5 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://domgoodwin.github.io/"
 languageCode = "en-us"
 title = "domgoodwin"
 theme = "base16"
-

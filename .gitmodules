@@ -1,3 +1,7 @@
 [submodule "themes/base16"]
 	path = themes/base16
 	url = https://github.com/htdvisser/hugo-base16-theme.git
+[submodule "public"]
+	path = public
+	url = git@github.com:domgoodwin/domgoodwin.github.io.git
+	branch = master

@@ -3,8 +3,6 @@ title: "Podcast reccomendations"
 date: 2018-04-04T22:03:36+01:00
 ---
 
-Real Stories
-=====================
 Reply All
 ---------------------
 
@@ -26,13 +24,8 @@ This American Life is one of the most popular podcasts of all time. With over tw
 >- 20 Acts in 60 Minutes : #241
 >- Five Women : #640
 
-***
-Notable mentions
----------------------
->S-Town, Serial, Crimetown
 
-Interesting
-=====================
+***
 My Favourite Murder
 ---------------------
 
@@ -102,8 +95,7 @@ Two economist explore the hidden side of everything, from pizza stores to chuck 
 >- How Big is My Penis? (And Other Things We Ask Google)
 
 
-Comedy
-=====================
+***
 My Dad Wrote A Porno
 ---------------------
 
@@ -112,6 +104,7 @@ I think the title of this one really says it all.
 ### Episodes to get started
 >- S1E1 - 'The Job Interview;'
 
+***
 Mortified
 ---------------------
 
@@ -121,9 +114,9 @@ Adults tell the embarrassing stories of things they did as kids.
 >- Titanic Ruined My Love Life, #88
 >- How to Become a Catfish, #105
 
-Factual
-=====================
 
-Stories
-=====================
+***
+Notable mentions
+---------------------
+>S-Town, Serial, Crimetown
 
