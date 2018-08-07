@@ -1,7 +1,6 @@
 ---
 title: "Setup"
 date: 2018-04-06T11:03:53+01:00
-draft: true
 ---
 
 Introduction
