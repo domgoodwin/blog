@@ -1,19 +1,18 @@
 #!/bin/bash
-git submodule update --recursive --remote
+# git submodule init
+git submodule update --init --recursive --remote
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
-msg="rebuilding site `date`"
-git add .
-git commit -m "$msg"
 cd public
 # Add changes to git.
 git add .
 
 # Commit changes.
+msg="rebuilding site `date`"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
