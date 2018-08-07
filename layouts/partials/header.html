@@ -21,7 +21,10 @@
 <header>
   <div class="container clearfix">
     <a class="path" href="{{ .Site.BaseURL }}">[{{ .Site.Title }}]</a>
-    <span class="caret"># _</span>
+    <span class="caret"> # </span>
+    <a class="path" href="http://home.domgoodw.in">Home</a>
+    <span class="caret"> # </span>
+    <a class="path" href="http://api.domgoodw.in">API</a>
     <div class="right">
       {{ range $i, $page := (where .Site.Pages "Section" "pages") }}
         {{ if not (eq $i 0) }}|{{ end }}
