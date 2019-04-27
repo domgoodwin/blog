@@ -2,6 +2,10 @@
 title: "Podcast reccomendations - 02/2019"
 date: 2019-02-12T14:31:03Z
 draft: false
+taxonomies:
+  category: personal
+  series: podcast-reccomendations
+  tag: podcasts
 ---
 
 These are my currently podcast reccomendations for Q1 2019

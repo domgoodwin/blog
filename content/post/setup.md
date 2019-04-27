@@ -1,6 +1,11 @@
 ---
 title: "Setting up a Hugo Blog"
 date: 2018-04-06T11:03:53+01:00
+taxonomies:
+  category: guide
+  tag: 
+    - guide
+    - hugo
 ---
 
 [Hugo](https://gohugo.io/) is a Go based, static site generator. It has some [impressive](https://www.youtube.com/watch?v=CdiDYZ51a2o) benchmarking figures, a [huge catalog](https://themes.gohugo.io/) of impressive themes and means I don't have to write HTML.
