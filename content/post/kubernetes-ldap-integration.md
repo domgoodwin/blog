@@ -48,9 +48,9 @@ apiServer:
 ```
 Some things to note:
 
-- The `oidc-issuer-url` should return when going to /.well-known openid-configuration with an OIDC discovery payload
+- The `oidc-issuer-url` should return when going to /.well-known/openid-configuration with an OIDC discovery payload
 - The `oidc-ca-file` is optional if the cert for the endpoint is already in the cluster certs information but TLS from the apiserver to OIDC is not optional
-- The `oidc-{groups,username}-prefix` prevents clashing between LDAP user/group names and ones in the Kubernetes cluster already. It does mean when you reference say an LDAP group called "admins" it'll be "oidc:admin" in kubernetes RBAC resources
+- The `oidc-{groups,username}-prefix` prevents clashing between LDAP user/group names and ones in the Kubernetes cluster already. It does mean when you reference an LDAP group called "admins" it'll be "oidc:admin" in Kubernetes RBAC resources
 
 ## 2. Dex
 
