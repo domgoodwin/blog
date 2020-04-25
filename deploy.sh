@@ -1,5 +1,6 @@
 #!/bin/bash
 # git submodule init
+set -x
 git submodule update --init --recursive --remote
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
