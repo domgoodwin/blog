@@ -8,7 +8,7 @@ taxonomies:
   tag: podcasts
 ---
 
-These are my currently podcast reccomendations for Q2-ish 2019
+These are my currently podcast reccomendations for Q2 2019
 
 <!--more-->
 
