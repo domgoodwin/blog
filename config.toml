@@ -4,6 +4,8 @@ title = "Dom Goodwin"
 theme = "terminal"
 paginate = 5
 
+[markup.goldmark.renderer]
+unsafe= true
 
 [params]
   contentTypeName = "post"

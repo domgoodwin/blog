@@ -11,6 +11,7 @@ Software/Platform Engineer
 Key technologies: Terraform, Vault, Kubernetes, Linux
 
 ## Links
+
 {{% socialicon github "https://github.com/domgoodwin" %}}
 {{% socialicon keybase "https://keybase.io/domgoodwin" %}}
 {{% socialicon twitter "https://twitter.com/domgoodwin_" %}}
