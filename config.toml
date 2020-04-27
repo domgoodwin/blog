@@ -10,13 +10,13 @@ paginate = 5
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "pink"
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 4
   showLanguageSelector = false
   # set theme to full screen width
   fullWidthTheme = false
 
   # center theme with default width
-  centerTheme = false
+  centerTheme = true
 
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"
@@ -57,3 +57,7 @@ paginate = 5
         identifier = "about"
         name = "About"
         url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "books"
+        name = "Books"
+        url = "/books"

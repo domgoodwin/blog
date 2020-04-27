@@ -4,6 +4,9 @@ date: 2020-02-20T15:25:00+01:00
 draft: false
 ---
 
+Useful shellscript snippets
+<!--more-->
+
 ## Commonly used
 
 ```bash
