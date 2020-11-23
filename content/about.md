@@ -8,15 +8,16 @@ taxonomies:
 Dom Goodwin
 Software/Platform Engineer
 
-Key technologies: Terraform, Vault, Kubernetes, Linux
+Key technologies: Kubernetes, Vault, Terraform, Linux
 
 ## Links
 
 {{% socialicon github "https://github.com/domgoodwin" %}}
 {{% socialicon keybase "https://keybase.io/domgoodwin" %}}
 {{% socialicon twitter "https://twitter.com/domgoodwin_" %}}
-{{% socialicon linkedin-in "https://www.linkedin.com/in/dom-goodwin-40919b74/" %}}
+{{% socialicon linkedin-in "https://www.linkedin.com/in/dom-goodwin/" %}}
 
 ## Certifications
 
-{{< image src="/img/logo_cka.png" alt="CKA" position="left" style="height: 8rem;" >}}
+{{< image src="/img/logo_cka.png" alt="CKA" position="left" style="height: 8rem;display: inline;" >}}
+{{< image src="/img/logo_ckad.png" alt="CKA" position="left" style="height: 8rem; display: inline;" >}}
