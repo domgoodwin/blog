@@ -14,7 +14,7 @@ Backend Engineer @ Monzo
 {{% socialicon keybase "https://keybase.io/domgoodwin" %}}
 {{% socialicon twitter "https://twitter.com/domgoodwin_" %}}
 {{% socialicon linkedin-in "https://www.linkedin.com/in/dom-goodwin/" %}}
-{{% socialicon rss "https://domgoodw.in/index.xml" %}}
+{{% socialicon rss "https:///index.xml" %}}
 
 ## Certifications
 
