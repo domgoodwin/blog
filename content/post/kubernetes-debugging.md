@@ -3,6 +3,8 @@ title: "Kubernetes Debugging"
 date: 2020-04-20T14:57:09+01:00
 draft: false
 summary: Workflow to debug common Kubernetes problems
+categories:
+- Helpful
 ---
 
 This is a workflow to debug common Kubernetes problems when deploying applications.

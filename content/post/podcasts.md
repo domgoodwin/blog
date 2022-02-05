@@ -1,10 +1,10 @@
 ---
 title: "Podcast reccomendations - 04/2018"
 date: 2018-04-04T22:03:36+01:00
-taxonomies:
-  category: personal
-  series: podcast-reccomendations
-  tag: podcasts
+categories:
+- Reccomendations
+tags:
+- Podcasts
 ---
 
 These are my currently podcast reccomendations as of April 2018

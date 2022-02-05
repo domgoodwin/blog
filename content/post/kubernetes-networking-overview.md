@@ -2,6 +2,9 @@
 title: "Kubernetes Networking: #1"
 date: 2022-01-10T12:06:09Z
 draft: false
+categories:
+- Helpful
+- Deep dive
 ---
 
 Kubernetes networking can be a bit of a rabbit hole to debug and discover what your pods are actually doing. In this post we’ll explore at a high level how a request goes from 1 pod to another and which components control each.

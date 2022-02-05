@@ -19,7 +19,7 @@ unsafe= true
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "pink"
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 4
+  showMenuItems = 6
   showLanguageSelector = false
   # set theme to full screen width
   fullWidthTheme = false
