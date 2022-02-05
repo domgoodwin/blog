@@ -4,6 +4,13 @@ title = "Dom Goodwin"
 theme = "terminal"
 paginate = 5
 
+rssLimit = 20
+copyright = "2022 Dom Goodwin All rights reserved"
+
+[author]
+	name = "Dom Goodwin"
+	email = "dom@domgoodwin.dev"
+
 [markup.goldmark.renderer]
 unsafe= true
 
@@ -63,3 +70,7 @@ unsafe= true
         identifier = "books"
         name = "Books"
         url = "/books"
+      [[languages.en.menu.main]]
+        identifier = "rss"
+        name = "RSS"
+        url = "/index.xml"

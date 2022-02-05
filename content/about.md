@@ -6,9 +6,7 @@ taxonomies:
   category: static
 ---
 Dom Goodwin
-Software/Platform Engineer
-
-Key technologies: Kubernetes, Vault, Terraform, Linux
+Backend Engineer @ Monzo
 
 ## Links
 
@@ -16,6 +14,7 @@ Key technologies: Kubernetes, Vault, Terraform, Linux
 {{% socialicon keybase "https://keybase.io/domgoodwin" %}}
 {{% socialicon twitter "https://twitter.com/domgoodwin_" %}}
 {{% socialicon linkedin-in "https://www.linkedin.com/in/dom-goodwin/" %}}
+{{% socialicon rss "https://domgoodw.in/index.xml" %}}
 
 ## Certifications
 
