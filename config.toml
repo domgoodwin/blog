@@ -6,6 +6,7 @@ paginate = 5
 
 rssLimit = 20
 copyright = "2022 Dom Goodwin All rights reserved"
+googleAnalytics = 'G-65KQ87541E'
 
 [author]
 	name = "Dom Goodwin"
