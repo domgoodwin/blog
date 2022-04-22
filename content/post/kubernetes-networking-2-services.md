@@ -44,7 +44,7 @@ The normal way of utilising this would be giving your application the service DN
 The `ClusterIP` service type is ✨*special*✨, whilst you use it as a way to expose your service internally within the cluster, it’s also used by types `NodePort` and `LoadBalancer` (by extension of LoadBalancer using `NodePort`) as part of their implementations. 
 
 
-{{< figurelink src="/img/k8s-services-2-types.png" title="Just like a Matryoshka doll" caption="Just like a Matryoshka doll" >}}
+{{< figure src="/img/k8s-services-2-types.png" title="Just like a Matryoshka doll" caption="Just like a Matryoshka doll" >}}
 
 
 `<service-ip>:<service-port> → <pod-ip>:<pod-port>`
@@ -189,7 +189,7 @@ Lets see how this request goes through to our pod from outside the cluster and a
 ### From outside the cluster
 
 
-{{< figurelink src="/img/k8s-services-2-lb-external.png" title="External from cluster Loadbalancer to pod" >}}
+{{< figurelink src="/img/k8s-services-2-lb-external.png" title="External from cluster Loadbalancer to pod" link="/img/k8s-services-2-lb-external.png" >}}
 
 
 1. The client makes a request to the load balancer to try and talk to the application, for how this is configured see my post on ingress into a cluster
@@ -201,7 +201,7 @@ Lets see how this request goes through to our pod from outside the cluster and a
 ### From a pod within the cluster
 
 
-{{< figurelink src="/img/k8s-services-2-lb-internal.png" title="Internal from pod to pod" >}}
+{{< figurelink src="/img/k8s-services-2-lb-internal.png" title="Internal from pod to pod" link="/img/k8s-services-2-lb-internal.png" >}}
 
 1. The requesting pod will have been configured with the service DNS address `example.default.svc.cluster.local`. As it makes this request from within the cluster CoreDNS running will be the DNS resolver. This request will be resolved to the Service (virtual) IP address: `10.43.205.153`
 2. Making a request to this address will hit the rules in iptables, configured by `kube-proxy`, this resolves the service IP into a Pod IP by randomly selecting a pod
