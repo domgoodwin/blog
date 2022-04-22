@@ -1,5 +1,5 @@
 ---
-title: "Kubernetes Networking: #1"
+title: "Kubernetes Networking #1"
 date: 2022-01-10T12:06:09Z
 draft: false
 categories:
