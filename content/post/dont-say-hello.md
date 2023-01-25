@@ -19,7 +19,7 @@ It has annoyed me since the advent of instant messaging at work, but as more peo
 
 At a high level, the issue is this: instant messaging is asynchronous, unlike a verbal conversation, each participant can be doing something else at the beginning of the chat and might continue doing so for the duration of the conversation.
 
-With a phone call, communication is instantaneous, so the time for pleasantries is tiny compared to the actual discussion of a problem. When it’s via chat there’s delay, even if both parties are watching the chat, waiting to respond as soon as possible, they still take time to type and find the write emojis.
+With a phone call, communication is instantaneous, so the time for pleasantries is tiny compared to the actual discussion of a problem. When it’s via chat there’s delay, even if both parties are watching the chat, waiting to respond as soon as possible, they still take time to type and find the right emojis.
 
 Let’s use a sequence diagram to show what I mean:
 
