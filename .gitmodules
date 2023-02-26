@@ -1,7 +1,7 @@
-[submodule "themes/terminal"]
-	path = themes/terminal
-	url = git@github.com:domgoodwin/hugo-theme-terminal.git
 [submodule "public"]
 	path = public
 	url = git@github.com:domgoodwin/domgoodwin.github.io.git
 	branch = master
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = git@github.com:domgoodwin/hugo-theme-terminal.git
