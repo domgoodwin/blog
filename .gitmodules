@@ -1,6 +1,6 @@
 [submodule "themes/terminal"]
 	path = themes/terminal
-	url = https://github.com/panr/hugo-theme-terminal.git
+	url = https://github.com/domgoodwin/hugo-theme-terminal
 [submodule "public"]
 	path = public
 	url = git@github.com:domgoodwin/domgoodwin.github.io.git
