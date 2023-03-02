@@ -14,6 +14,7 @@ Backend Engineer @ Monzo
 {{% socialicon keybase "https://keybase.io/domgoodwin" %}}
 {{% socialicon twitter "https://twitter.com/domgoodwin_" %}}
 {{% socialicon linkedin-in "https://www.linkedin.com/in/dom-goodwin/" %}}
+{{% socialicon mastodon "https://www.linkedin.com/in/dom-goodwin/" %}}
 {{% socialicon rss "index.xml" %}}
 {{% socialicon message "mailto:site@dgood.win" %}}
 
@@ -21,3 +22,7 @@ Backend Engineer @ Monzo
 
 {{< image src="/img/logo_cka.png" alt="CKA" position="left" style="height: 8rem;display: inline;" >}}
 {{< image src="/img/logo_ckad.png" alt="CKA" position="left" style="height: 8rem; display: inline;" >}}
+
+{{< raw >}}
+<a rel="me" href="https://social.lol/@domg">Mastodon</a>
+{{< /raw >}}
