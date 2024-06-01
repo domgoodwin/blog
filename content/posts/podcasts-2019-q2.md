@@ -2,10 +2,8 @@
 title: "Podcasts reccomendations - 07/2019"
 date: 2019-07-22T11:28:19+01:00
 draft: false
-categories:
-- Reccomendations
 tags:
-- Podcasts
+- podcasts
 ---
 
 These are my currently podcast reccomendations for Q2 2019

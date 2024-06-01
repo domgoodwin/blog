@@ -2,8 +2,9 @@
 title: "Kubernetes Networking #3: Ingress"
 date: 2022-07-22T18:06:09Z
 draft: false
-categories:
-- Deep dive
+tags:
+- kubernetes
+- deep-dive
 ---
 
 Kubernetes Ingress provide a way to expose HTTP(S) routes into your pods from a centralized controller and load balancer. It means you can define *how* the network traffic can get to your pod inside a Kubernetes resource and a controller hosted in the cluster takes care of the implementation.

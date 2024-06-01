@@ -2,8 +2,9 @@
 title: "The case for time-tracking"
 date: 2022-02-05T15:06:09Z
 draft: false
-categories:
-- Reccomendations
+tags:
+- productivity
+- ways-of-working
 ---
 Time tracking has a bad reputation, it invokes images of managers watching over your shoulder or pay being docked as you punched in minutes before your shift ended. Due to these, and many more, if you suggest to someone to start tracking their time they’re likely to look at you like you’ve gone mad.
 

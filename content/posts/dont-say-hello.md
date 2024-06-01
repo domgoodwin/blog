@@ -2,9 +2,9 @@
 title: "Don’t just say ‘hello’ to me"
 date: 2023-01-25T19:06:09Z
 draft: false
-categories:
-- Productivity
-- Ways of working
+tags:
+- productivity
+- ways-of-working
 ---
 I was recently in a 1-1 with my new EM and was asked what annoys me at work. The one thing that immediately popped to mind was:
 

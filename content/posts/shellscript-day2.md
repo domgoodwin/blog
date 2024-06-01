@@ -2,8 +2,8 @@
 title: "Shellscript Notes"
 date: 2020-02-20T15:25:00+01:00
 draft: false
-categories:
-- Helpful
+tags:
+- cheatsheet
 ---
 
 Useful shellscript snippets

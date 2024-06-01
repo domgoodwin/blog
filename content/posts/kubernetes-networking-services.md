@@ -2,8 +2,9 @@
 title: "Kubernetes Networking #2: Services"
 date: 2022-04-21T10:06:09Z
 draft: false
-categories:
-- Deep dive
+tags:
+- kubernetes
+- deep-dive
 ---
 
 Kubernetes services are an essential resource everyone uses, but what are all the different types and how do they work under the hood?

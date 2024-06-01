@@ -2,9 +2,8 @@
 title: "Blog² - Blog about blogs"
 date: 2022-01-03T12:06:09Z
 draft: false
-categories:
-- Productivity
-- Ways of working
+tags:
+- reccomendations
 ---
 
 Here's a list I (hopefully) update around tech blogs I enjoy
