@@ -142,11 +142,6 @@ summaryLength = 70  # number of words for article summaries
         url = "https://social.lol/@domg"
         weight = 40
     [[menu.icons]]
-        identifier = "rss"
-        name = "RSS"
-        url = "/index.xml"
-        weight = 50
-    [[menu.icons]]
         identifier = "email"
         name = "Email"
         url = "mailto:site@dgood.win"
