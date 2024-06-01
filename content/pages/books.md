@@ -4,4 +4,5 @@ draft: false
 showDate: false
 showTitle: false
 ---
-{{< books >}}
+{{< reading-challenge >}}
+{{< books-read >}}
