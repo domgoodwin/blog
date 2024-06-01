@@ -5,7 +5,7 @@ git submodule update --init --recursive --remote
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
-hugo -t terminal
+hugo -t hugo-ficurinia
 
 # Go To Public folder
 cd public

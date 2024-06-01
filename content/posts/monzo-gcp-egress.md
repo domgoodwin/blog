@@ -2,8 +2,9 @@
 title: "Reducing our NAT Gateway cost with private networking between AWS and GCP"
 date: 2023-01-15T10:06:09Z
 draft: false
-categories:
-- Monzo
+tags:
+- monzo
+- external
 ---
 
 This post is hosted on the Monzo Blog:

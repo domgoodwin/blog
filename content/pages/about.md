@@ -1,9 +1,7 @@
 ---
 title: "About"
-date: null
-draft: false
-taxonomies:
-  category: static
+showDate: false
+showTitle: false
 ---
 
 Backend Engineer @ Monzo
