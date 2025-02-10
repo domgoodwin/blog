@@ -16,3 +16,5 @@ tags:
 {{< solar >}}
 
 [Data in CSV format](https://raw.githubusercontent.com/domgoodwin/go-automation/main/data.csv)
+
+{{< solar2 >}}
