@@ -4,4 +4,4 @@ showDate: false
 showTitle: false
 ---
 
-Backend Engineer @ Monzo
+Staff Engineer @ Monzo

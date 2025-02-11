@@ -146,6 +146,11 @@ summaryLength = 70  # number of words for article summaries
         name = "Email"
         url = "mailto:site@dgood.win"
         weight = 60
+    [[menu.icons]]
+        identifier = "bluesky"
+        name = "Bluesky"
+        url = "@dgood.win"
+        weight = 10
 
 # this section is necessary if you want infinite scrolling
 # it allows to output the article list as paged JSON so that "pages" can be retrieved via javascript
