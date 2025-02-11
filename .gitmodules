@@ -2,9 +2,7 @@
 	path = public
 	url = git@github.com:domgoodwin/domgoodwin.github.io.git
 	branch = master
-[submodule "themes/terminal"]
-	path = themes/terminal
-	url = git@github.com:domgoodwin/hugo-theme-terminal.git
+
 [submodule "hugo-ficurinia"]
-	path = hugo-ficurinia
-	url = git@gitlab.com:gabmus/hugo-ficurinia.git
+	path = themes/hugo-ficurinia
+	url = https://codeberg.org/gabmus/hugo-ficurinia.git
