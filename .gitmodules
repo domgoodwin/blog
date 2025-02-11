@@ -6,3 +6,6 @@
 [submodule "hugo-ficurinia"]
 	path = themes/hugo-ficurinia
 	url = https://codeberg.org/gabmus/hugo-ficurinia.git
+[submodule "themes/hugo-ficurinia"]
+	path = themes/hugo-ficurinia
+	url = https://codeberg.org/gabmus/hugo-ficurinia.git
