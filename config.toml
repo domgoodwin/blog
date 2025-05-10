@@ -3,14 +3,12 @@ theme = "hugo-ficurinia"
 title = "Dom Goodwin"
 languageCode = "en"
 defaultContentLanguage = "en"
-
-# this will be included in the footer after the current year the site is last
-# built, followed by the (c) symbol
-# you can use markdown inside this field
 copyright = "Dom Goodwin"
 
-paginate = 5  # number of articles per page in the index
 summaryLength = 70  # number of words for article summaries
+
+[pagination]
+    pagerSize = 5  # number of articles per page in the index
 
 
 [params]
@@ -29,11 +27,12 @@ summaryLength = 70  # number of words for article summaries
 
     # It's best to put these icons in the "static" folder of your site
     logo = "/logo.svg"
-    favicon = "/favicon.png"  # 32x32
-    faviconIco = "/favicon.ico"  # 32x32
-    appletouch = "/apple-touch-icon.png"  # 180x180
+    logoAltText = "Logo"
+    favicon = "/favicon.png"
+    faviconIco = "/favicon.ico"
+    appletouch = "/apple-touch-icon.png"
     svgicon = "/logo.svg"
-    icon512 = "/icon512.png"  # 512x512 png image
+
 
     logoRightOfTitle = false  # positions the logo to the right of the title; default: false
 
@@ -74,31 +73,17 @@ summaryLength = 70  # number of words for article summaries
 
     underlineTitleLinks = true  # show an underline also for links that are titles
 
-    # enable analytics using Umami
-    # umamiScriptUrl = "https://cloud.umami.is/script.js"
-    # umamiWebsiteId = "ac540eb3-ea38-412a-bbda-0f734635df39"
+    cactusCommentsSiteName = "dgood.win"
+    cactusCommentsServerName = "cactus.chat"
+    cactusCommentsHomeserver = "https://matrix.cactus.chat:8448"
+    enableShareOnFediverse = true
+    fediverseAccount  = "@domg@social.lol"
 
-    enableShareOnFediverse = false
     tocBeforeImage = false  # show the table of contents before the main article image; default false
 
-    # WARNING: deprecated! Use [[menu.icons]] instead, look below
-    # links = [
-    #     ["GitLab", "https://gitlab.com/gabmus"],
-    #     ["GNOME", "https://gitlab.gnome.org/gabmus"],
-    #     ["YouTube", "https://youtube.com/TechPillsNet"]
-    # ]
-
-    # you can customize all of the colors in this theme
-    # Colors are defined in data/colors.yml
-
-    # alternative sidebar layout
     enableSidebarLayout = false
     tocInSidebar = false  # if the sidebar is enbabled, show the TOC in the sidebar
 
-    # redirect to baseURL if current URL host doesn't match
-    # useful if deploying in gitlab pages with custom domain and don't want
-    # the username.gitlab.io/website url to persist
-    # this requires you to set baseURL (see above)
     forceRedirect = true
 
     infiniteScrolling = false  # activates infinite scrolling instead of regular pagination
@@ -111,26 +96,11 @@ summaryLength = 70  # number of words for article summaries
     randomRelated = false  # sorts related articles in random order (randomized at built time)
 
 [menu]
-    # these links will be added to the main navigation menu, sorted by weight
-    # other elements in this menu are added automatically from the "pages" folder
-    # the folder it will look into can be customized with the pages variable
-    # in params above
-    #[[menu.main]]
-    #    identifier = "about"
-    #    name = "About"
-    #    url = "/about/"
-    #    weight = 10
-    # these links (menu.icons) will be added as icon links below the main nav
     [[menu.icons]]
         identifier = "github"
         name = "GitHub"
         url = "https://github.com/domgoodwin"
         weight = 10
-    [[menu.icons]]
-        identifier = "twitter"
-        name = "Twitter"
-        url = "https://twitter.com/domgoodwin_"
-        weight = 20
     [[menu.icons]]
         identifier = "linkedin"
         name = "LinkedIn"
