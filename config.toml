@@ -100,17 +100,17 @@ summaryLength = 70  # number of words for article summaries
         identifier = "github"
         name = "GitHub"
         url = "https://github.com/domgoodwin"
-        weight = 10
+        weight = 20
     [[menu.icons]]
         identifier = "linkedin"
         name = "LinkedIn"
         url = "https://www.linkedin.com/in/dom-goodwin/"
-        weight = 30
+        weight = 40
     [[menu.icons]]
         identifier = "mastodon"
         name = "Mastodon"
         url = "https://social.lol/@domg"
-        weight = 40
+        weight = 50
     [[menu.icons]]
         identifier = "email"
         name = "Email"
@@ -121,6 +121,11 @@ summaryLength = 70  # number of words for article summaries
         name = "Bluesky"
         url = "@dgood.win"
         weight = 10
+    [[menu.icons]]
+        identifier = "gitlab"
+        name = "GitLab"
+        url = "@domgoodwin"
+        weight = 30
 
 # this section is necessary if you want infinite scrolling
 # it allows to output the article list as paged JSON so that "pages" can be retrieved via javascript

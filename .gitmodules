@@ -5,4 +5,5 @@
 
 [submodule "themes/hugo-ficurinia"]
 	path = themes/hugo-ficurinia
-	url = git@gitlab.com:gabmus/hugo-ficurinia.git
+	url = git@gitlab.com:domgoodwin/hugo-ficurinia.git
+	branch = add-bluesky-logo
