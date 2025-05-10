@@ -5,4 +5,4 @@
 
 [submodule "themes/hugo-ficurinia"]
 	path = themes/hugo-ficurinia
-	url = https://codeberg.org/gabmus/hugo-ficurinia.git
+	url = git@gitlab.com:gabmus/hugo-ficurinia.git
